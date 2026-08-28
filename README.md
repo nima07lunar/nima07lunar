@@ -1,19 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=NIMA&fontSize=65&fontColor=58A6FF&fontAlignY=38&desc=.NET%20Developer%20%7C%20Backend%20Engineer&descSize=18&descAlignY=61&descColor=C9D1D9&animation=fadeIn&color=0:0D1117,45:161B22,100:21262D" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=NIMA&fontSize=68&fontColor=E6EDF3&fontAlignY=38&desc=.NET%20Developer%20%7C%20Backend%20Developer&descSize=18&descAlignY=61&descColor=8B949E&animation=fadeIn&color=0:0D1117,50:161B22,100:2B1B3D" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2400&pause=850&color=58A6FF&center=true&vCenter=true&width=850&height=55&lines=%24+whoami+%E2%86%92+Nima;Building+reliable+software+with+C%23+%26+.NET;Designing+clean+APIs+%7C+scalable+backends+%7C+data-driven+systems;%24+git+commit+-m+%22keep+learning%22" alt="Terminal Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2400&pause=850&color=A371F7&center=true&vCenter=true&width=850&height=55&lines=%24+whoami+%E2%86%92+Nima;Building+reliable+software+with+C%23+%26+.NET;Designing+clean+APIs+%7C+scalable+backends+%7C+data-driven+systems;%24+git+commit+-m+%22keep+learning%22" alt="Terminal Animation"/>
 
 <br><br>
 
 <a href="https://github.com/nima07lunar">
-  <img src="https://komarev.com/ghpvc/?username=nima07lunar&label=PROFILE+VIEWS&color=58A6FF&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=nima07lunar&label=PROFILE+VIEWS&color=A371F7&style=for-the-badge" alt="Profile Views"/>
 </a>
 
 <a href="https://github.com/nima07lunar?tab=followers">
-  <img src="https://img.shields.io/github/followers/nima07lunar?label=FOLLOW&style=for-the-badge&logo=github&logoColor=white&color=161B22" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/nima07lunar?label=FOLLOW&style=for-the-badge&logo=github&logoColor=white&color=21262D" alt="Followers"/>
 </a>
 
 <a href="https://www.linkedin.com/in/nima-moradi-8b3427310/">
@@ -28,22 +28,23 @@
 
 <table>
 <tr>
+
 <td valign="top" width="55%">
 
 ### Hey, I'm Nima 👋
 
-I'm a **.NET Developer** focused on backend engineering, API development, software architecture, and building maintainable systems.
+I'm a **.NET Developer** focused on backend development, API design, software architecture, and building maintainable applications.
 
-I enjoy turning real-world problems into reliable software, designing clean APIs, working with databases, and continuously improving the quality of the systems I build.
+I enjoy turning real-world problems into practical software, working with databases, designing clean APIs, and continuously improving the way I write and structure code.
 
 ### What I care about
 
-* 🧱 Clean and maintainable architecture
+* 🧱 Clean and maintainable code
 * ⚙️ Reliable backend systems
 * 🔌 Well-designed APIs
 * 🚀 Performance and scalability
 * 🧪 Testing and code quality
-* 📚 Continuous learning
+* 📚 Learning new technologies
 
 </td>
 
@@ -56,7 +57,7 @@ public class Nima
         ".NET Developer";
 
     public string Focus =>
-        "Backend Engineering";
+        "Backend Development";
 
     public string[] Stack =>
     [
@@ -73,6 +74,7 @@ public class Nima
 ```
 
 </td>
+
 </tr>
 </table>
 
@@ -106,14 +108,14 @@ public class Nima
 <img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="LINQ"/>
 <img src="https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="xUnit"/>
 <img src="https://img.shields.io/badge/Moq-8A2BE2?style=for-the-badge&logo=.net&logoColor=white" alt="Moq"/>
-<img src="https://img.shields.io/badge/Clean%20Architecture-161B22?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Clean Architecture"/>
-<img src="https://img.shields.io/badge/REST%20API-161B22?style=for-the-badge&logo=swagger&logoColor=58A6FF" alt="REST API"/>
+<img src="https://img.shields.io/badge/Clean%20Architecture-161B22?style=for-the-badge&logo=github&logoColor=A371F7" alt="Clean Architecture"/>
+<img src="https://img.shields.io/badge/REST%20API-161B22?style=for-the-badge&logo=swagger&logoColor=A371F7" alt="REST API"/>
 
 </div>
 
 ---
 
-## 🧩 Areas of Expertise
+## 🧩 What I Work With
 
 <div align="center">
 
@@ -154,7 +156,7 @@ public class Nima
 
 <td align="center" width="33%">
 
-### 🗄️ Data & Quality
+### 🗄️ Data & Testing
 
 **SQL Server**
 
@@ -181,7 +183,7 @@ public class Nima
 
 <a href="https://github.com/nima07lunar/CityClimateApi">
   <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=nima07lunar&repo=CityClimateApi&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=nima07lunar&repo=CityClimateApi&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A371F7&text_color=C9D1D9&icon_color=A371F7"
     alt="CityClimateApi"
   />
 </a>
@@ -232,24 +234,24 @@ OpenWeatherMap API
 
 <p align="center">
   <a href="https://github.com/nima07lunar/CityClimateApi">
-    <img src="https://img.shields.io/badge/VIEW%20PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=0D1117" alt="View Project"/>
+    <img src="https://img.shields.io/badge/VIEW%20PROJECT-A371F7?style=for-the-badge&logo=github&logoColor=0D1117" alt="View Project"/>
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Overview
 
 <div align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=nima07lunar&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF"
+src="https://github-readme-stats.vercel.app/api?username=nima07lunar&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A371F7&icon_color=A371F7&text_color=C9D1D9&ring_color=A371F7"
 height="180"
-alt="GitHub Stats"
+alt="GitHub Statistics"
 />
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=nima07lunar&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=nima07lunar&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A371F7&text_color=C9D1D9"
 height="180"
 alt="Top Languages"
 />
@@ -261,7 +263,7 @@ alt="Top Languages"
 <div align="center">
 
 <img
-src="https://streak-stats.demolab.com?user=nima07lunar&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"
+src="https://streak-stats.demolab.com?user=nima07lunar&theme=github-dark-blue&hide_border=true&background=0D1117&ring=A371F7&fire=A371F7&currStreakLabel=A371F7"
 width="70%"
 alt="GitHub Streak"
 />
@@ -270,21 +272,29 @@ alt="GitHub Streak"
 
 ---
 
-## 📈 Contribution Activity
+## 🛠️ Coding Journey
 
 <div align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=nima07lunar&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&custom_title=Nima's%20Contribution%20Graph"
+src="https://github-readme-activity-graph.vercel.app/graph?username=nima07lunar&bg_color=0D1117&color=A371F7&line=A371F7&point=FFFFFF&area=true&hide_border=true&custom_title=Nima's%20Coding%20Journey"
 width="96%"
-alt="Contribution Graph"
+alt="Coding Journey"
+/>
+
+<br><br>
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nima07lunar&theme=github_dark"
+width="96%"
+alt="Profile Summary"
 />
 
 </div>
 
 ---
 
-## 🧠 Currently Improving
+## 🧠 Currently Learning
 
 <div align="center">
 
@@ -346,7 +356,7 @@ Maintainability
 
 ---
 
-## 💭 Engineering Mindset
+## 💭 Developer Mindset
 
 <div align="center">
 
@@ -357,7 +367,7 @@ Maintainability
 
 <img
 src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=700&height=35&lines=Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Understand+%E2%86%92+Improve"
-alt="Engineering Mindset"
+alt="Developer Mindset"
 />
 
 </div>
@@ -368,7 +378,7 @@ alt="Engineering Mindset"
 
 <div align="center">
 
-I'm always interested in **.NET**, backend engineering, software architecture, and interesting projects.
+I'm always interested in **.NET**, backend development, software architecture, and interesting projects.
 
 <br><br>
 
@@ -377,7 +387,7 @@ I'm always interested in **.NET**, backend engineering, software architecture, a
 </a>
 
 <a href="https://github.com/nima07lunar">
-  <img src="https://img.shields.io/badge/GitHub-nima07lunar-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-nima07lunar-21262D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <br><br>
@@ -390,6 +400,6 @@ I'm always interested in **.NET**, backend engineering, software architecture, a
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:58A6FF,50:161B22,100:0D1117" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2B1B3D,50:161B22,100:0D1117" width="100%"/>
 
 </div>
