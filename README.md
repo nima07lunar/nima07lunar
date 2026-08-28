@@ -1,49 +1,390 @@
 <div align="center">
-  
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=.NET+Developer+%7C+C%23+Enthusiast;Building+Clean+%26+Scalable+Applications;ASP.NET+Core+%7C+Blazor+%7C+EF+Core;Turning+Coffee+%E2%98%95+into+Code+%F0%9F%92%BB" alt="Typing SVG" />
 
-  <br><br>
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-  <a href="https://github.com/nima07lunar">
-    <img src="https://komarev.com/ghpvc/?username=nima07lunar&label=PROFILE+VIEWS&color=58A6FF&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/nima07lunar?tab=followers">
-    <img src="https://img.shields.io/github/followers/nima07lunar?style=for-the-badge&logo=github&label=FOLLOWERS&color=181717" />
-  </a>
-  <a href="https://www.linkedin.com/in/nima-moradi-8b3427310/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<!--                              HERO                                       -->
 
-  <br><br>
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=120&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=NIMA&fontSize=65&fontColor=58A6FF&fontAlignY=38&desc=.NET%20Developer%20%7C%20Backend%20Engineer&descSize=18&descAlignY=61&descColor=C9D1D9&animation=fadeIn&color=0:0D1117,45:161B22,100:21262D" width="100%"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2400&pause=850&color=58A6FF&center=true&vCenter=true&width=850&height=55&lines=%24+whoami+%E2%86%92+Nima;Building+reliable+software+with+C%23+%26+.NET;Designing+clean+APIs+%7C+scalable+backends+%7C+data-driven+systems;%24+git+commit+-m+%22keep+learning%22" alt="Terminal Animation" />
+
+<br><br>
+
+<a href="https://github.com/nima07lunar">
+  <img src="https://komarev.com/ghpvc/?username=nima07lunar&label=PROFILE+VIEWS&color=58A6FF&style=for-the-badge" alt="Profile views"/>
+</a>
+
+<a href="https://github.com/nima07lunar?tab=followers">
+  <img src="https://img.shields.io/github/followers/nima07lunar?label=FOLLOW&style=for-the-badge&logo=github&logoColor=white&color=161B22" alt="Followers"/>
+</a>
+
+<a href="https://www.linkedin.com/in/nima-moradi-8b3427310/">
+  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,aspnet,blazor,ef,sqlserver,git,github,postman,vscode&perline=10" alt="Tech Stack"/>
+
 </div>
 
-### 🧑‍💻 About Me
+---
+
+## 🧑‍💻 About Me
+
+<table>
+<tr>
+<td valign="top" width="55%">
+
+### Hey, I'm Nima 👋
+
+I'm a **.NET Developer** focused on backend engineering, API design and building maintainable software.
+
+I enjoy turning real-world problems into reliable systems, working with databases, improving architecture and constantly sharpening my engineering skills.
+
+### What I care about
+
+* 🧱 Clean & maintainable architecture
+* ⚙️ Reliable backend systems
+* 🚀 Performance & scalability
+* 🔌 Well-designed APIs
+* 🧪 Testing & code quality
+* 📚 Continuous learning
+
+</td>
+
+<td valign="top" width="45%">
 
 ```csharp
 public class Nima
 {
-    public string Role => ".NET Developer";
+    public string Role =>
+        ".NET Developer";
 
-    public string[] MainStack =>
+    public string Focus =>
+        "Backend Engineering";
+
+    public string[] Stack =>
     [
         "C#",
         "ASP.NET Core",
         "Blazor",
-        "Entity Framework Core",
+        "EF Core",
         "SQL Server"
     ];
 
-    public string[] Interests =>
-    [
-        "Backend Development",
-        "Clean Architecture",
-        "API Design",
-        "Performance",
-        "Software Architecture"
-    ];
-
-    public string CurrentGoal =>
-        "Become a stronger software engineer every day 🚀";
+    public string Philosophy =>
+        "Build it clean. Improve it daily.";
 }
+```
+
+</td>
+</tr>
+</table>
+
+> **💡 Write code that your future self won't hate.**
+
+---
+
+## ⚡ Tech Arsenal
+
+<div align="center">
+
+### 💻 Languages & Frameworks
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,aspnet,blazor&perline=4" />
+
+<br><br>
+
+### 🗄️ Data & Backend
+
+<img src="https://skillicons.dev/icons?i=sqlserver,sqlite,postman&perline=3" />
+
+<br><br>
+
+### 🛠️ Tools & Workflow
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio&perline=4" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+<img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+<img src="https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+<img src="https://img.shields.io/badge/Moq-8A2BE2?style=for-the-badge&logo=.net&logoColor=white" />
+<img src="https://img.shields.io/badge/Clean%20Architecture-161B22?style=for-the-badge&logo=github&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/REST%20API-161B22?style=for-the-badge&logo=swagger&logoColor=58A6FF" />
+
+</div>
+
+---
+
+## 🧩 What I Build
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### ⚙️ Backend
+
+C#
+ASP.NET Core
+REST APIs
+Dependency Injection
+LINQ
+Authentication
+Authorization
+
+</td>
+
+<td align="center" width="33%">
+
+### 🏗️ Architecture
+
+Clean Architecture
+SOLID
+Clean Code
+Repository Pattern
+Separation of Concerns
+Scalable Systems
+Maintainability
+
+</td>
+
+<td align="center" width="33%">
+
+### 🗄️ Data & Testing
+
+SQL Server
+EF Core
+SQLite
+xUnit
+Moq
+API Testing
+Database Design
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🌟 Featured Project
+
+<div align="center">
+
+<a href="https://github.com/nima07lunar/CityClimateApi">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=nima07lunar&repo=CityClimateApi&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"
+    alt="CityClimateApi"
+  />
+</a>
+
+</div>
+
+### 🌦️ CityClimateApi
+
+A **.NET 8 Web API** that provides real-time weather and air-quality information using external APIs.
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### ✨ Features
+
+* 🌡️ Real-time weather data
+* 🌫️ Air quality information
+* 🌍 City-based queries
+* 📡 OpenWeatherMap integration
+* 🧪 Unit testing
+* 📖 Swagger / OpenAPI
+* 🏗️ Clean architecture
+* 🔌 External API integration
+
+</td>
+
+<td valign="top" width="50%">
+
+### 🧰 Built With
+
+```text
+C#
+.NET 8
+ASP.NET Core
+Entity Framework Core
+xUnit
+Moq
+Swagger / OpenAPI
+OpenWeatherMap API
+```
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/nima07lunar/CityClimateApi">
+    <img src="https://img.shields.io/badge/VIEW%20PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=0D1117" alt="View Project"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=nima07lunar&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF"
+height="180"
+alt="GitHub Stats"
+/>
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=nima07lunar&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
+height="180"
+alt="Top Languages"
+/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img
+src="https://streak-stats.demolab.com?user=nima07lunar&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"
+width="70%"
+alt="GitHub Streak"
+/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=nima07lunar&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&custom_title=Nima's%20Contribution%20Graph"
+width="96%"
+alt="Contribution Graph"
+/>
+
+</div>
+
+---
+
+## 🧠 Currently Improving
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🧱
+
+**Architecture**
+
+Clean Architecture
+SOLID
+Design Patterns
+
+</td>
+
+<td align="center" width="25%">
+
+### 🚀
+
+**Backend**
+
+ASP.NET Core
+API Design
+Performance
+
+</td>
+
+<td align="center" width="25%">
+
+### 🗄️
+
+**Data**
+
+SQL Server
+EF Core
+Query Optimization
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧪
+
+**Quality**
+
+Testing
+Clean Code
+Maintainability
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 💭 Engineering Mindset
+
+<div align="center">
+
+> **"Good software isn't just code that works.
+> It's code that remains understandable when the project gets bigger."**
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=700&height=35&lines=Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Understand+%E2%86%92+Improve" alt="Engineering Mindset"/>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm always interested in **.NET**, backend engineering, software architecture and interesting projects.
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/nima-moradi-8b3427310/">
+  <img src="https://img.shields.io/badge/LinkedIn-Nima%20Moradi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://github.com/nima07lunar">
+  <img src="https://img.shields.io/badge/GitHub-nima07lunar-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br><br>
+
+⭐ **Explore the repositories. Build something cool.**
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:58A6FF,50:161B22,100:0D1117" width="100%"/>
+
+</div>
