@@ -92,71 +92,21 @@ I enjoy turning real-world problems into reliable applications, designing APIs, 
 
 <div align="center">
 
-<table>
-<tr>
+### ⚙️ Backend Engineering
 
-<td align="center" width="33%">
+`C#` · `ASP.NET Core` · `REST APIs` · `Entity Framework Core` · `LINQ` · `Dependency Injection`
 
-### ⚙️ Backend
+<br><br>
 
-<br>
+### 🏗️ Software Architecture
 
-**C#**
+`Clean Architecture` · `SOLID` · `Clean Code` · `Repository Pattern` · `Separation of Concerns`
 
-**ASP.NET Core**
-
-**REST APIs**
-
-**Entity Framework Core**
-
-**LINQ**
-
-**Dependency Injection**
-
-</td>
-
-<td align="center" width="33%">
-
-### 🏗️ Architecture
-
-<br>
-
-**Clean Architecture**
-
-**SOLID**
-
-**Clean Code**
-
-**Repository Pattern**
-
-**Separation of Concerns**
-
-**Scalable Systems**
-
-</td>
-
-<td align="center" width="33%">
+<br><br>
 
 ### 🗄️ Data & Testing
 
-<br>
-
-**SQL Server**
-
-**SQLite**
-
-**EF Core**
-
-**xUnit**
-
-**Moq**
-
-**API Testing**
-
-</td>
-
-</tr>
-</table>
+`SQL Server` · `SQLite` · `EF Core` · `xUnit` · `Moq` · `API Testing`
 
 </div>
 
